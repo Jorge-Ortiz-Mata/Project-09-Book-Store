@@ -1,4 +1,4 @@
-#   PRACTICE 02. BOOKSTORE.  
+#   PROYECT 09. BOOKSTORE.  
 
 ## Author:
 - Jorge Ortiz Mata.
